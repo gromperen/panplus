@@ -16,7 +16,7 @@
     },
     "content_scripts": [
         {
-            "matches": ["*://*.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=*",
+            "matches": ["*://*.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=*",
                 "*://*.weblecture.nus.edu.sg/Panopto/Pages/Viewer.aspx?id=*",
                 "*://luminus.nus.edu.sg/iframe/lti-launch/panopto*"],
             "js": [
